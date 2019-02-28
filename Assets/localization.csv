@@ -1,0 +1,173 @@
+Key,Description,Standard
+SAY.Balcony.4.You,,"Oh, it's fresh here... \n"
+SAY.Balcony.6.Osada Eri,,"Oh, Hideki-chaaaan! What a surprise to see you here. I didn't knew you liked to go to parties like this.\n"
+SAY.Balcony.7.You,,"Hi Eri! Yeah, You know me perfect. I'm not a fan of these sort of things. But my friend Taji got me here. "
+SAY.Balcony.8.Osada Eri,,"Yes, I also hate parties. But you know... my sister has been asking to my father to do a party for her for a long time. And as I'm her sister, I need to assist. "
+SAY.Balcony.9.You,,I'd prefer to be in a more relaxed place
+SAY.Balcony.10.Osada Eri,,"Yes, as those nights we used to walk in the park"
+SAY.Balcony.11.You,,"True, it's been a long time... Those are great memories... "
+SAY.Balcony.12.Osada Eri,,Yes... I think we should go tha...
+SAY.Balcony.15.Osada Rino,,"Ha, so you decide to show your ugly face arround here, I only invited you for compromise. Hope that you don't decide to stay so long"
+SAY.Balcony.16.Osada Eri,,I only came here to see you make a fool
+SAY.Balcony.17.Osada Rino,,You're a bitch!
+SAY.Balcony.18.Osada Eri,,Shut the fuck up
+SAY.Balcony.19.You,,Eri and Rino started to fight. I don't know what to do...
+MENU.Balcony.20,Don't waste your time arguing,Defend Eri
+MENU.Balcony.21, We're supposed to come to have fun,Try to calm the situation
+MENU.Balcony.22,Do nothing ,Do nothing
+SAY.Balcony.98.You,,"Leave her, Eri, we should exit this ugly place..."
+SAY.Balcony.99.Osada Eri,,Great... bye Rino. I don't want to lose my time with you. Stay here with your stupid party. 
+SAY.Balcony.101.Osada Eri,,Let's go Hideki
+SAY.Balcony.364.Osada Rino,,How do you dare to touch me?! 
+SAY.Balcony.123.Osada Eri,,"What? I really didn't come here to get fun, I really hate this place!"
+SAY.Balcony.124.You,,(They keep fighting! I don't know what to do!?)
+SAY.Balcony.125.You,,(Cries in Internally in Bad English Japanese)
+SAY.Balcony.128.You,,\n(ノಠ益ಠ)ノ
+SAY.Balcony.129.You,,彡
+SAY.Balcony.130.You,,(x.x)
+SAY.Balcony.132.You,,What have you done?! You pushed Eri throught the balcony?!!! 
+SAY.Balcony.133.You,,"Oh, no. I can't belibe this. Are you really her sister?! You are a monster!"
+SAY.Balcony.134.You,,Eri was my childhood friend! And you killed her! 
+MENU.Balcony.136,,(TT___TT)
+MENU.Balcony.137,,ლ(ಠ益ಠლ)
+SAY.Balcony.141.,,"This remind me of the old times, when we stayed hours on the park in primary school. "
+SAY.Balcony.143.Osada Eri,,"Yes, those are great memories."
+SAY.Balcony.144.,,This makes me feel like home.
+SAY.Balcony.145.,,*sight*
+SAY.Balcony.146.Osada Eri,,"Hey, look at those Beetles. One of them have ribbon!"
+SAY.Balcony.147.,,What? I don't understand why it has a ribbon. 
+SAY.Balcony.148.,,"If this were a visual novel, this would be the time where you need to explore another story branch to understand why there is a Beetle with a ribbon."
+SAY.Balcony.288.You,,"Impulsed by the sadness, you decide to follow your best friend faith and jump over tthe balcony..."
+SAY.Balcony.354.You,,"Impulsed by the wrath, you decide to revenge the death of your best friend and push Rino throught the balcony"
+MENU.Mistery Man.1,,Accept drink
+MENU.Mistery Man.2,,Reject drink
+SAY.Mistery Man.192.You,,I can't find Taji anywere. Nor that girl he talked about... Maybe I can ask to that guy over there...
+SAY.Mistery Man.195.Mystery Man,,"I haven't see you before in events like these... You seems to be a bit stressed, please take this drink. It'll let you relax a bit, and distend your muscles...  ;) ;)"
+SAY.Mistery Man.196.You,,"No thanks, I don't drink alcohol. Also, my mom said I should never speak with strange people in the shadows wearing a fedora. "
+SAY.Mistery Man.197.Mystery Man,,"Don't worry kiddo, this drink doesn't have any alcohol. But maybe contains another things... \n"
+SAY.Mistery Man.202.Mystery Man,,Ignoring the confusing facts that happened. I'd never forget the kindness of Beattle-chan
+SAY.Mistery Man.203.Mystery Man,,I told you the drink would relax you...\n\n
+SAY.Mistery Man.206.Mystery Man,,What is this about? A rookie like you thinks he can reject my amability and stand in front of me?
+SAY.Mistery Man.207.You,,...
+MENU.Mistery Man.208,,Accept drink
+MENU.Mistery Man.209,,Reject Drink
+SAY.Mistery Man.211.You,,"I'm sorry, but my family is the most important thing for me, I've to go back to my home"
+SAY.Mistery Man.212.Beetle-chan,,I understand... I'ill miss you Human. Come later to visit me <3
+SAY.Mistery Man.215.,,"After a few minutes the dizziness returns and I see how everything around me shrinks, returning to acquire their true size\n"
+SAY.Mistery Man.219.You,,What is this? I feel something ... dizzy ...
+SAY.Mistery Man.221.You,,"I see all blurry and confusingly, everything around me seems to increase in size..."
+SAY.Mistery Man.222.You,,"I am shrinking?! Oh, no... I AM SHRINKING!!! WHAT DID THIS STRANGE DRINK DO TO ME? It shrinked me! Is this magic? Or drugs? Or what the hell was this? "
+SAY.Mistery Man.223.You,,"I'm too small now. A simple step from the people around me, puts me in danger. I should go to a safer place without ANY people... Where should I go? "
+SAY.Mistery Man.224.You,,Better to go outside... 
+SAY.Mistery Man.228.You,,I am outside now... everithing is so big!\n
+SAY.Mistery Man.230.Beetle-chan,,"Woo woo woo, it's the first time I see you in such a small frame, human\n"
+SAY.Mistery Man.231.Beetle-chan,,"You look scared, come with me to my burrow, it's a nice and safe place\n"
+SAY.Mistery Man.232.You,,"Maybe it's the effect of the drink, but going with the beetle seems like a good idea\n"
+SAY.Mistery Man.233.Beetle-chan,,"It's the first time I have guests in my burrow, I'm very excited\n"
+SAY.Mistery Man.234.You,,"It's also my first time in such a place, but I feel quite relaxed."
+SAY.Mistery Man.236.Beetle-chan,,"You know, Human, I like your company... In fact, I think I love you. Would you like to stay the night with me?\n"
+MENU.Mistery Man.237,,Go back with your family
+MENU.Mistery Man.238,,Stay whit her
+SAY.Mistery Man.240.Mystery Man,,Don't you know I make the bests cocktails in the world? You better don't loose this amazing oportunity...
+MENU.Mistery Man.241,,Accept Drink
+MENU.Mistery Man.242,,Reject Drink
+SAY.Mistery Man.244.Mystery Man,,"Who do you think you are, to treat me like that? Do you see who I am?\n"
+SAY.Mistery Man.245.You,,"No, in fact I don't see you. You are all black. (?)\n"
+MENU.Mistery Man.246,,accept drink
+MENU.Mistery Man.247,,Reject Drink
+SAY.Mistery Man.249.You,,"Sure! Your kindness makes me feel like in my own house\nI also love you, Beetle-Chan <3"
+SAY.Mistery Man.251.Beetle-chan,,"You are so lovely. But, you know, it seems unfair to me that you have clothes and I do not.\n"
+SAY.Mistery Man.253.You,,He approaches and steals a kiss from me\n
+SAY.Mistery Man.257.Mystery Man,,"Look boy, you can't reject me in that way...If I give you my drink you MUST accept it!\n"
+SAY.Mistery Man.258.You,,I have said I don't want it. It's time to leave and find my friend...
+SAY.Mistery Man.259.Mystery Man,,"Little bastard, no one can say ""no"" to me. This's gotten personal. I'll use my last resource..."
+SAY.Mistery Man.262.Mystery Man,,GUYS! Get this boy out of here!
+SAY.Mistery Man.289.You,,I can't believe what just happened. What an awful party. I should have stayed home.
+SAY.Mistery Man.290.You,,This makes me think that the best is staying home
+SAY.Main Flowchart.1.You,,Today is a special day... 
+SAY.Main Flowchart.2.You,,My best friend Taji wants me to join a special party...
+SAY.Main Flowchart.4.You,,He says there will be a lot of girls of his school. I don't know why he want me to know a new girl... 
+SAY.Main Flowchart.6.You,,Oh... there he is...
+SAY.Main Flowchart.5.Takagi Taji,,Hi Hideki! Are you ready to the party? 
+SAY.Main Flowchart.7.You,,"Eh...ehm... \nyes... I think... I mean... of course I'm ready, Taji... "
+SAY.Main Flowchart.8.Takagi Taji,,"Hurry! There're no time for doubts... You're always shy and bashful... You need to know a new girl. I will help you, you know? "
+SAY.Main Flowchart.12.Takagi Taji,,The party is hosted by one of the most popular girls on my school. I've talked to you about her... 
+MENU.Main Flowchart.15,,Of course I remember her!
+MENU.Main Flowchart.16,,"Yeah... sure, can you refresh my memory?"
+SAY.Main Flowchart.10.Takagi Taji,,"We've arrived Hideki! It seems like a super big party... Usual for Osada San. As I told you, her father is one of the most richest mans in Tokyo. "
+SAY.Main Flowchart.27.Takagi Taji,,I'll have a drink. Why don't you make yourself a tour arround here? I'll meet you here in a few minutes. I think that girl over there gave me a wink... Hehe... 
+SAY.Main Flowchart.30.You,,But... I don't know anyone arround here... don't let me alo.... 
+SAY.Main Flowchart.33.You,,Well. He left me. I think I'm on my own now... 
+SAY.Main Flowchart.34.You,,"I recognize Osada Rino over there. Surprisely, she's alone. I really want to talk with her... but as Taji said, I'm to shy, I've never talked to any girl like she. "
+SAY.Main Flowchart.14.Takagi Taji,,*sigh* You never change... 
+SAY.Main Flowchart.19.Takagi Taji,,"The Osada Irino's father is the owner of Tokyo Daily... you know, the newspaper... And well, she's the most popular girl on my school. "
+SAY.Main Flowchart.20.Takagi Taji,,You REALLY need to know her. She's so cute. And of course she's super sexy. 
+SAY.Main Flowchart.386.Takagi Taji,,But I doubt she gave you any atention. All the boys on the school are after her.
+SAY.Main Flowchart.21.Takagi Taji,,"On Tanabata, nearly twenty boys asked Osada-san to go out. And she rejected each one of them. She seems to be super selective..."
+SAY.Main Flowchart.22.Takagi Taji,,"But well, I think I'll have a chance with her someday... I'll try to talk to her tonight. Wish me luck!"
+SAY.Main Flowchart.23.Takagi Taji,,Enought talk... Let's go to the party! 
+SAY.Main Flowchart.18.Takagi Taji,,"Oh great, let's go to the party then... "
+SAY.Main Flowchart.95.You,,Maybe I should try to follow Taji. It's too hot here. I could take a drink while I watch how he talks to that girl. Or I could go to the balcony to breath fresh air.
+MENU.Main Flowchart.36,,Try to talk with Osada Rino
+MENU.Main Flowchart.57,,Go to the balcony 
+MENU.Main Flowchart.140,,Go to find Taji and take a drink
+SAY.Main Flowchart.376.You,,I want to breath some fresh air. It's too hot here.\n
+SAY.Rino.2.,,She's sitting alone in that corner... I wonder why. Osada-san is super popular... I wonder if I could aproach her. She's so pretty. 
+SAY.Rino.4.Osada Rino,,Hi! Hello Hideki-san. How are you? 
+SAY.Rino.5.You,,He..hello... Ehm... How did you know my name?
+SAY.Rino.7.Osada Rino,,"Oh, yes, of course. I saw you with Takagi-san after school. I think he's your friend, is he? "
+SAY.Rino.8.You,,Yes. He's my friend. 
+SAY.Rino.9.Osada Rino,,"Oh, I see. So, I'm glad I see you came here alone without him. He's always with you, so I never had a chance to talk with you. "
+SAY.Rino.11.Osada Rino,,Please sit with me.
+SAY.Rino.40.Osada Rino,,"Well, see you later Hideki..."
+SAY.Rino.42.Osada Rino,,"Well, I am now alone again. What do I do now?"
+MENU.Rino.51,,Ask why is she alone
+MENU.Rino.52,,Comment about Rino's father
+MENU.Rino.54,,Ask about his house
+MENU.Rino.173,,"I should return, Taji is waiting me..."
+SAY.Rino.58.You,,I can't leave this place. My friend Taji is waiting for me. He'll be worried if I don't return soon.
+SAY.Rino.93.You,,"So, Osada-san, how is your house?"
+SAY.Rino.95.Osada Rino,,"Call me Rino, please... "
+SAY.Rino.97.Osada Rino,,"Boring. My house is Boring. I'm always alone because my father is working. And my sister as I said, is a cumbersome. "
+SAY.Rino.98.You,,Boring?
+SAY.Rino.99.Osada Rino,,"Yes... But I prefer one hundred times to be in my bed to stay in this party with people I don't like. But if I leave this place now, I'll have to stay the night alone in my home."
+SAY.Rino.174.You,,Alone? Wouldn't your father and sister be with you at your house?
+SAY.Rino.101.Osada Rino,,Never. They'll stay here all the night. So my house is alone right now... mh... 
+SAY.Rino.103.Osada Rino,,"About that, why don't you come along with me to my house? "
+MENU.Rino.105,,Go to her house
+MENU.Rino.106,,Stay in the party
+SAY.Rino.108.You,,"So, why are you alone in this corner?"
+SAY.Rino.110.Osada Rino,,"I've drink a bit too much and felt a bit dizzy, so I sat here. Hehe. Sometimes I loose the count how much I drink. "
+SAY.Rino.111.You,,And all the friends that are usually with you?
+SAY.Rino.112.Osada Rino,,Friends? You mean the boys? *sighs* They're an annoyance. I really don't want to be with them. But they're prowling arround all the time.
+SAY.Rino.113.Osada Rino,,"They aren't my friends. They only hang out with me because my father. He's the owner of Tokyo Daily, you know?"
+SAY.Rino.115.You,,"Yes, the newspaper. "
+SAY.Rino.116.Osada Rino,,I really hate all my familly. My father is so egocentric. And my sister... she's a pain in the ass. 
+SAY.Rino.119.Osada Rino,,"So, I saw your father got featured as one of the top 10 most influential man in Tokyo."
+SAY.Rino.121.Osada Rino,,My father is always worried about his personal image. In consecuence he don't let me do a lot of things that normal teenagers do. 
+SAY.Rino.122.Osada Rino,,I asked him for a lot of months to let me invite some friends to my house. He always refused. The last week he said me he'll throwing this huge party for me with all the students on the school. 
+SAY.Rino.123.Osada Rino,,He said the party will improve his image. But I don't really want a huge party. I only want to invite some friends to my house and spend some time together...
+SAY.Rino.125.Osada Rino,,or maybe... 
+SAY.Rino.126.You,,or maybe...?
+SAY.Rino.127.Osada Rino,,Hehehe... 
+SAY.Rino.134.,,This is Rino's room. Is so tiddy. It's so beautiful... like her...
+SAY.Rino.135.You,,"So, this is your home..."
+SAY.Rino.137.Osada Rino,,No... I don't call it my home.. a home is a place with love and peace. And I don't like to be here. 
+SAY.Rino.139.Osada Rino,,"But now its different, because I am with you... <3"
+SAY.Rino.140.Osada Rino,,"Hurry up, I don't want to lose time. "
+SAY.Rino.142.Osada Rino,,Rino took my hand and kissed me slowly...
+SAY.Rino.143.Osada Rino,,Please stay the night with me... 
+SAY.Rino.144.You,,"Yes, Rino..."
+SAY.Rino.148.You,,You look so beautiful...
+SAY.Rino.149.Osada Rino,,"Thanks, Hideki. Please help me unfasten my bra. "
+SAY.Rino.150.Osada Rino,,I love you Hideki. 
+SAY.Rino.151.You,,I love you Rino. 
+SAY.Rino.152.You,,We spent all the night doing pervert...I mean...lovely things...
+SAY.Rino.156.You,,Okay... let's go to your house...
+SAY.Rino.157.Osada Rino,,Perfect. It's near. A few blocks away.
+CHARACTER.Takagi Taji,,Takagi Taji
+CHARACTER.Beetle-chan,,Beetle-chan
+CHARACTER.Mystery Man,,Mystery Man
+CHARACTER.Osada Eri,<3,Osada Eri
+CHARACTER.Osada Rino,,Osada Rino
+CHARACTER.You,,You
